@@ -11,7 +11,7 @@
           Teguh Atma 
         </p>      
         <p class="font-mono font-thin text-transparent bg-gradient-to-r from-red-500 to-slate-100 bg-clip-text"> Web Developer & Freelancer </p>
-        <p class="font-medium leading-relaxed pt-3 text-secondary mb-10"> Learn CSS is fun? <span class="text-red-500"> NOT TRUE! </span>  
+        <p class="font-medium leading-relaxed pt-3 text-secondary mb-10"> Learn CSS is fun, not? <span class="text-red-500"> not </span>  
         </p>
         
         <a href={'#'} class="text-base font-semibold text-white bg-teal-500 py-3 px-5 rounded-full hover:bg-white hover:text-primary hover:border-2 shadow-lg transition duration-300 ease-in-out animate-bounce "> Contact Me </a>
