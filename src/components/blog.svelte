@@ -40,6 +40,9 @@
             <a href="{'#'}" class="font-medium text-sm text-white py-3 px-6 bg-primary rounded-lg hover:opacity-80"> Read more </a>
           </div>
         </div>
+      </div>
+      
+      <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
         <div class="bg-white rounded-xl overflow-hidden shadow-lg mb-10">
           <img src="https://source.unsplash.com/360x200?mechanical+keyboard" alt="Programming" class="w-full">
           <div class="py-8 px-6">
@@ -50,6 +53,8 @@
             <a href="{'#'}" class="font-medium text-sm text-white py-3 px-6 bg-primary rounded-lg hover:opacity-80"> Read more </a>
           </div>
         </div>  
+      </div>  
+      <div class="w-full px-4 lg:w-1/2 xl:w-1/3">      
         <div class="bg-white rounded-xl overflow-hidden shadow-lg mb-10">
           <img src="https://source.unsplash.com/360x200?black+coffe" alt="Programming" class="w-full">
           <div class="py-8 px-6">
