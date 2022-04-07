@@ -9,18 +9,18 @@
   <div class="container">
     <div class="flex flex-wrap">
       <div class="w-full self-center px-4 lg:w-1/2">        
-        <div class="animate-pulse hover:animate-none bg-transparent rounded-lg pt-4 pb-2 pl-4 backdrop-blur-md hover:bg-gradient-to-r hover:from-sky-300 hover:to-pink-300 mb-4 transition duration-500 ease-in-out hover:translate-y-5" >
+        <div class="hover:animate-none animate-pulse bg-transparent rounded-lg pt-4 pb-2 pl-4 backdrop-blur-md hover:bg-gradient-to-r hover:from-sky-300 hover:to-pink-300 mb-4 transition duration-500 ease-in-out hover:translate-y-5" >
           <p class="text-primary lg:text-2xl"> Hi all 👋 I am 👨 </p>
           <p class="pt-3 text-4xl lg:text-5xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-cyan-500 bg-clip-text uppercase"> 
             Teguh Atma 
           </p>      
-          <p class="font-mono font-thin text-transparent bg-gradient-to-r from-red-500 to-slate-100 bg-clip-text"> Web Developer & Freelancer </p>
+          <p class="font-mono font-thin text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text"> Web Developer & Freelancer </p>
           <p class="font-medium leading-relaxed pt-3 text-secondary mb-10"> Learn CSS is fun, not? <span class="text-red-500"> not </span>  
           </p>
         </div>
         
         <div class="hover:-translate-y-3 transition duration-300 ease-in-out">
-          <a href={'#'} class="text-base font-semibold text-white animate-pulse bg-teal-500 py-3 px-5 rounded-full hover:bg-white hover:text-primary hover:border-2 shadow-lg hover:animate-none "> Contact Me </a>
+          <a href={'#'} class="text-base font-semibold text-white bg-teal-500 py-3 px-5 rounded-full hover:bg-white hover:text-primary hover:border-2 shadow-lg hover:animate-none animate-pulse"> Contact Me </a>
         </div>
       </div>
       
@@ -33,7 +33,7 @@
             </svg>
           </span>
           <span class="absolute top-5 -z-20 -translate-x-1/2 left-1/2 ">
-            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" width="350" height="400" class="animate-ping">
+            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" width="350" height="400">
               <path fill="#9EF0F0" d="M66.8,-22C76,6.6,65.6,41.3,41.9,58.8C18.1,76.3,-19,76.7,-42.9,59.3C-66.9,41.8,-77.7,6.5,-68.4,-22.2C-59.1,-51,-29.5,-73.1,-0.4,-73C28.8,-72.9,57.6,-50.5,66.8,-22Z" transform="translate(100 100)" />
             </svg>
           </span>

@@ -7,7 +7,9 @@
   import Blog from '../components/blog.svelte';
   import Contact from '../components/contact.svelte';
   import Footer from '../components/footer.svelte';
-  
+
+  // floating memu / direction
+  import FloatingSidebar from '../components/floating-sidebar.svelte';  
 </script>
 
 <Hero />
@@ -17,3 +19,4 @@
 <Blog />
 <Contact />
 <Footer />
+<FloatingSidebar />

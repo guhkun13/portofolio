@@ -18,7 +18,7 @@
   
   let fixedHeader = '';
   
-  let menus = ['beranda', 'tentangsaya', 'portofolio', 'clients', 'blog', 'contact'];
+  const menus = ['beranda', 'tentangsaya', 'portofolio', 'clients', 'blog', 'contact'];    
 </script>
 
 <header class="bg-transparent top-0 absolute left-0 w-full flex items-center z-10 {fixedHeader}">
@@ -48,12 +48,6 @@
         </nav>
       </div>
     </div>    
-  </div>
-
-  <div class="fixed right-3 z-10 bottom-10">
-    <a href="#beranda" class="hover:text-indigo-600 ">
-      <svg xmlns="http://www.w3.org/2000/svg" class="animate-bounce fill-current transition duration-300" role="img" width="50" height="50" viewBox="0 0 24 24"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12-5.373-12-12-12-12 5.373-12 12zm17-1h-4v8h-2v-8h-4l5-6 5 6z"/></svg>
-    </a>
   </div>
 </header>
 
