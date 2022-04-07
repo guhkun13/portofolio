@@ -9,17 +9,20 @@
   <div class="container">
     <div class="flex flex-wrap">
       <div class="w-full self-center px-4 lg:w-1/2">        
-        <div class="hover:animate-none animate-pulse bg-transparent rounded-lg pt-4 pb-2 pl-4 backdrop-blur-md hover:bg-gradient-to-r hover:from-sky-300 hover:to-pink-300 mb-4 transition duration-500 ease-in-out hover:translate-y-5" >
-          <p class="text-primary lg:text-2xl"> Hi all 👋 I am 👨 </p>
-          <p class="pt-3 text-4xl lg:text-5xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-cyan-500 bg-clip-text uppercase"> 
-            Teguh Atma 
-          </p>      
+        <div class="hover:animate-none  bg-transparent rounded-lg pt-4 pb-2 pl-4 backdrop-blur-md hover:bg-gradient-to-r hover:from-sky-300 hover:to-pink-300 mb-4 transition duration-500 ease-in-out hover:translate-y-5" >
+          <p class="text-primary lg:text-2xl animate-bounce transition duration-500  ease-in-out mb-3 "> Hi all 👋 </p>
+          <p>
+            <span class="font-xs"> I am</span> 
+            <span class="pt-3 text-4xl lg:text-5xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text uppercase"> 
+              Teguh Atma 
+            </span>      
+          </p>
           <p class="font-mono font-thin text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text"> Web Developer & Freelancer </p>
           <p class="font-medium leading-relaxed pt-3 text-secondary mb-10"> Learn CSS is fun, not? <span class="text-red-500"> not </span>  
           </p>
         </div>
         
-        <div class="hover:-translate-y-3 transition duration-300 ease-in-out">
+        <div class="hover:-translate-y-3 transition duration-300 ease-in-out mt-3">
           <a href={'#'} class="text-base font-semibold text-white bg-teal-500 py-3 px-5 rounded-full hover:bg-white hover:text-primary hover:border-2 shadow-lg hover:animate-none animate-pulse"> Contact Me </a>
         </div>
       </div>

@@ -18,7 +18,7 @@
     </div>
     
     <div class="fixed -right-5 z-20 bottom-10 h-1/2">
-      <div class="bg-gradient-to-t from-yellow-300 to-emerald-300 rounded-full py-10 px-4 opacity-30 hover:opacity-90 hover:-translate-x-5">
+      <div class="bg-gradient-to-t from-yellow-300 to-emerald-300 rounded-full py-10 px-4 opacity-30 hover:opacity-90 hover:-translate-x-5 transition duration-500 ease-in-out">
         <div class="flex flex-1">
           <ul>
             {#each menus as item}          
