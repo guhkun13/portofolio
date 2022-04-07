@@ -1,13 +1,13 @@
-<section id="about" class="pt-36 pb-32">
+<section id="tentangsaya" class="pt-36 pb-32">
   <div class="container">
-    <div class="flex flex-wrap"> 
+    <div class="flex flex-wrap lg:bg-transparent lg:backdrop-blur-md"> 
       <div class="w-full px-4 mb-10 lg:w-1/2">
-        <h4 class="text-bold text-mono text-primary text-lg uppercase mb-3"> About Me</h4>
-        <h2 class="font-bold text-black text-3xl mb-4"> Lets learn CSS </h2>
+        <h4 class="font-bold text-primary text-xl uppercase mb-3"> Tentang Saya </h4>
+        <h2 class="font-bold text-black text-3xl mb-4 lg:text-slate-400"> Lets learn CSS </h2>
         <p class="font-medium text-secondary font-mono lg:text-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae vitae temporibus soluta maiores iure fugiat. Magnam corrupti nobis tenetur blanditiis praesentium, neque assumenda repellendus, vero error ea rerum, unde doloremque.</p>
       </div>
       <div class="w-full px-4 mb-10 lg:w-1/2">
-        <h3 class="font-semibold text-2xl pt-10"> Connect </h3>
+        <h3 class="font-semibold text-2xl pt-10 lg:text-slate-400 mb-3 "> Connect </h3>
         <p class="text-secondary font-light font-mono mb-5 lg:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Et labore incidunt nisi minus ratione ipsa aut eaque assumenda pariatur molestias accusamus adipisci veniam quis amet ipsam officiis, iste quibusdam! Dolore.</p>
         
         <div class="flex items-center">

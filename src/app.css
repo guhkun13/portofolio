@@ -1,8 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+html {
+    scroll-behavior: smooth;
+    @apply transition duration-300 ease-in-out;
+}
+
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: @apply font-mono;
 }
 
 .hamburger-line {

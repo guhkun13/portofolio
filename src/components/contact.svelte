@@ -1,4 +1,4 @@
-<section id="footer" class="pt-36 pb-32">
+<section id="contact" class="pt-36 pb-32">
   <div class="container">
     <div class="w-full px-4">
       <div class="max-w-xl mx-auto text-center mb-16">
