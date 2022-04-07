@@ -25,7 +25,7 @@
   <div class="container">
     <div class="flex items-center justify-between relative">
       <div class="px-4">
-        <a href={'#'} class="font-bold text-lg text-primary block py-6">
+        <a href="/" class="font-bold text-lg text-primary block py-6">
           <img src="{logo}" alt="" width="40px">
         </a>                
       </div>
@@ -37,11 +37,11 @@
           <span class="origin-bottom-left hamburger-line transition duration-300 ease-in-out"></span>
         </button>
         
-        <nav id="nav-menu" class="{navMenu} absolute py-5 bg-slate-50 shadow-lg rounded-lg max-w-[250px] w-full right-3 top-full lg:static lg:block lg:bg-transparent lg:rounded-none lg:shadow-none lg:max-w-full lg:backdrop-blur-xl hover:shadow-lg">
+        <nav id="nav-menu" class="{navMenu} absolute py-5  text-violet-500 shadow-md rounded-lg max-w-[250px] w-full right-3 top-full lg:static lg:block  lg:max-w-full lg:backdrop-blur-xl hover:shadow-xl lg:text-violet-400 transition duration-300 ease-in-out">
           <ul class="block lg:flex ">
             {#each menus as item}
             <li class="group">
-              <a href="#{item}" class="text-base text-black lg:text-slate-300 lg:font-bold lg:text-sm mx-8 flex py-2 group-hover:text-sky-300 uppercase"> {item} </a>
+              <a href="#{item}" class="link-underline text-base text-black lg:text-violet-400 lg:font-bold lg:text-sm mx-8 flex py-2 group-hover:text-violet-500 uppercase"> {item} </a>
             </li>
             {/each}            
           </ul>

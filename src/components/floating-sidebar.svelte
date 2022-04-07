@@ -12,12 +12,12 @@
 <section id="floating-sidebar">  
   <div class="max-h-full max-w-full">  
     <div class="fixed right-3 z-10 bottom-10">
-      <a href="#beranda" class="hover:text-indigo-600 ">
+      <a href="#beranda" class="text-violet-500 ">
         <svg xmlns="http://www.w3.org/2000/svg" class="animate-bounce fill-current transition duration-300" role="img" width="50" height="50" viewBox="0 0 24 24"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12-5.373-12-12-12-12 5.373-12 12zm17-1h-4v8h-2v-8h-4l5-6 5 6z"/></svg>
       </a>
     </div>
     
-    <div class="fixed -right-5 z-20 bottom-10 h-1/2">
+    <div class="fixed -right-5 z-20 bottom-40 h-1/2">
       <div class="bg-gradient-to-t from-yellow-300 to-emerald-300 rounded-full py-10 px-4 opacity-30 hover:opacity-90 hover:-translate-x-5 transition duration-500 ease-in-out">
         <div class="flex flex-1">
           <ul>

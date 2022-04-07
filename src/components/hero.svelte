@@ -23,7 +23,7 @@
         </div>
         
         <div class="hover:-translate-y-3 transition duration-300 ease-in-out mt-3">
-          <a href={'#'} class="text-base font-semibold text-white bg-teal-500 py-3 px-5 rounded-full hover:bg-white hover:text-primary hover:border-2 shadow-lg hover:animate-none animate-pulse"> Contact Me </a>
+          <a href={'#contact'} class="text-base font-semibold text-white bg-teal-500 py-3 px-5 rounded-full hover:bg-white hover:text-primary hover:border-2 shadow-lg hover:animate-none animate-pulse"> Contact Me </a>
         </div>
       </div>
       
