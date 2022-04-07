@@ -1,5 +1,7 @@
 <script>
   import logo from '../assets/img/code-logo-2.png';
+
+
   let hamburgerActive = '';
   let navMenu = 'hidden';
   let clicked = false;
@@ -42,6 +44,7 @@
           <img src="{logo}" alt="" width="40px">
         </a>                
       </div>
+      
       <div class="flex items-center px-4">
         <button id="hamburger" name="hamburger" type="button" class="block absolute right-4 {hamburgerActive} lg:hidden" on:click="{toggleHamburger}">
           <span class="origin-top-left hamburger-line transition duration-300 ease-in-out"></span>

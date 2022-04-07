@@ -5,6 +5,8 @@
   import Portofolio from '../components/portofolio.svelte';
   import Client from '../components/client.svelte';
   import Blog from '../components/blog.svelte';
+  import Contact from '../components/contact.svelte';
+  import Footer from '../components/footer.svelte';
   
 </script>
 
@@ -13,3 +15,5 @@
 <Portofolio />
 <Client />
 <Blog />
+<Contact />
+<Footer />

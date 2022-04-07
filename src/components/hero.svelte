@@ -1,11 +1,14 @@
 <script>
   import profile from '../assets/img/guhkun-2.png';
+  import bgvideo from '../assets/vid/bg-lines.mp4';
+
 </script>
 
 <section id="home" class="pt-36">
   <div class="container">
     <div class="flex flex-wrap">
       <div class="w-full self-center px-4 lg:w-1/2">
+        <video src="{bgvideo}" autoplay loop width="w-full" class="bg-cover"></video>
         <p class="text-primary lg:text-2xl"> Hi all 👋 I am 👨 </p>
         <p class="pt-3 text-4xl lg:text-5xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-cyan-500 bg-clip-text uppercase"> 
           Teguh Atma 

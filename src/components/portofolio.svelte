@@ -24,21 +24,21 @@
       </div>
       <div class="mb-12 p-4 md:w-1/2">
         <div class="rounded-md shadow-lg overflow-hidden">
-          <img src="{img2}" alt="project1" width="w-full">
+          <img src="https://source.unsplash.com/360x200?e+commerce" alt="project1" class="w-full">
         </div>
         <h3 class="text-xl font-semibold font-mono my-4"> E-Commerce </h3>        
         <p class="text-base font-medium text-secondary"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. In numquam dicta voluptatibus! </p>
       </div>
       <div class="mb-12 p-4 md:w-1/2">
         <div class="rounded-md shadow-lg overflow-hidden">
-          <img src="{img3}" alt="project1" width="w-full">
+          <img src="https://source.unsplash.com/360x200?developer" alt="project1" class="w-full">
         </div>
         <h3 class="text-xl font-semibold font-mono my-4"> Edupay </h3>        
         <p class="text-base font-medium text-secondary"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. In numquam dicta voluptatibus! </p>
       </div>
       <div class="mb-12 p-4 md:w-1/2">
         <div class="rounded-md shadow-lg overflow-hidden">
-          <img src="{img3}" alt="project1" width="w-full">
+          <img src="https://source.unsplash.com/360x200?programming" alt="project1" class="w-full">
         </div>
         <h3 class="text-xl font-semibold font-mono my-4"> API </h3>        
         <p class="text-base font-medium text-secondary"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. In numquam dicta voluptatibus! </p>
