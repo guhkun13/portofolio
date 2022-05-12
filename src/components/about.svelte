@@ -1,16 +1,109 @@
-<section id="tentangsaya" class="pt-36 pb-32">
+<section id="whoami" class="pt-36 pb-32">
   <div class="container">
     <div class="flex flex-wrap lg:bg-transparent lg:backdrop-blur-md"> 
       <div class="w-full px-4 mb-10 lg:w-1/2">
-        <h4 class="font-bold text-primary text-xl uppercase mb-3"> Tentang Saya </h4>
-        <h2 class="font-bold text-black text-3xl mb-4 lg:text-slate-400"> Lets learn CSS </h2>
-        <p class="font-medium text-secondary font-mono lg:text-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae vitae temporibus soluta maiores iure fugiat. Magnam corrupti nobis tenetur blanditiis praesentium, neque assumenda repellendus, vero error ea rerum, unde doloremque.</p>
+        <div class="bg-black px-5 pt-3 pb-1 mb-5"> 
+          <span class="font-bold font-mono text-green-500 text-xl mb-3"> $   whoami             
+          </span>  
+        </div>        
+        <ul class="list-disc ml-5 font-mono space-y-3">
+          <li> Father of a beautiful and cute daughter </li>
+          <li> Software Engineer with multiple talent </li>
+          <li> Web Developer </li>
+          <li> Freelancer </li> 
+        </ul>
+        <p class="font-mono mt-5">
+          Life is not just about reaching the goal. Life is long and exhausting journey, enjoy the process, live the life. 
+        </p>
+        
       </div>
       <div class="w-full px-4 mb-10 lg:w-1/2">
-        <h3 class="font-semibold text-2xl pt-10 lg:text-slate-400 mb-3 "> Connect </h3>
-        <p class="text-secondary font-light font-mono mb-5 lg:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Et labore incidunt nisi minus ratione ipsa aut eaque assumenda pariatur molestias accusamus adipisci veniam quis amet ipsam officiis, iste quibusdam! Dolore.</p>
+        <div class="mb-5">
+          <div class="bg-black px-5 pt-3 pb-1 mb-5"> 
+            <span class="font-bold font-mono text-green-500 text-xl mb-3"> $ Programming Language
+            </span>  
+          </div>
+          <ul class="list-decimal ml-8 font-mono space-y-3">
+            <li> 
+              <div class="inline-flex items-center">
+                <span class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-slate-300 hover:border-primary hover:bg-green-500 hover:text-white text-secondary"> <svg role="img" width="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Python</title><path d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z"/></svg> </span> Python
+              </div>
+              <div class="font-mono mt-3 text-sm">
+                <ul class="list-disc">
+                  <li> Experience: since 2017 | ~4 years  </li>
+                  <li> Framework: Django, DRF </li>
+                </ul>
+              </div>
+            </li>
+            <li> 
+              nodeJS
+              <div class="font-mono mt-3 text-sm">
+                <ul class="list-disc">
+                  <li> Experience: since 2021 | ~1 year </li>
+                  <li> Framework: Express, NestJS </li>
+                </ul>
+              </div>
+            </li>
+            <li> PHP 
+              <div class="font-mono mt-3 text-sm">
+                <ul class="list-disc">
+                  <li> Experience: since 2017 | ~4 year </li>
+                  <li> Framework: CI, Laravel, Yii </li>
+                </ul>
+              </div>
+            </li>
+            
+            <li> Next: GoLang! 
+              <ul class="list-disc text-sm">
+                <li> Learned since April 2022 </li>
+                <li> I wanna be a ninja!  </li>
+              </ul>
+            </li>            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="w-full px-4 mb-10 lg:w-1/2">
+        <div class="bg-black px-5 pt-3 pb-1 mb-5"> 
+          <span class="font-bold font-mono text-green-500 text-xl mb-3"> $   other tech skills 
+          </span>  
+        </div>        
         
-        <div class="flex items-center">
+        <div class="mb-2">
+          <ul class="list-disc ml-5 font-mono space-y-3">
+            <li> GIT | <span class="text-xs"> most of my projects is in gitlab, just recently start using github 🥇 </span> </li>
+            <li> Linux |<span class="text-xs"> I love Ubuntu, Debian & Raspberry Pi 🥇 ❤️‍🔥 </span> </li> 
+            <li> Docker | <span class="text-xs"> yes idk k8s </span> 🥈 </li>
+            <li> Basic Networking |<span class="text-xs"> ((not sysadmin)) 🥉 </span> </li>
+            <li> Bash Scripting | <span class="text-xs"> yes, basic 🥉 </span></li>
+            <li> Have I HTML & CSS ? | <span class="text-xs"> Yes i know them well 🥇😄 </span> </li>
+          </ul>
+        </div>                
+      </div>
+
+      <div class="w-full px-4 mb-10 lg:w-1/2">
+        <div class="bg-black px-5 pt-3 pb-1 mb-5"> 
+          <span class="font-bold font-mono text-green-500 text-xl mb-3"> $ other skills
+          </span>  
+        </div>        
+        
+        <div class="mb-2">
+          <ul class="list-disc ml-5 font-mono space-y-3">
+            <li> Problem Solving |<span class="text-xs"> Understanding the problem is a first step to solve it </span> </li> 
+            <li> Communication |<span class="text-xs"> Understanding each other is the key to successfull communication </span> </li>
+            <li> SDLC: Agile Method | <span class="text-xs"> Waterfall is not bad, really </span> </li>
+            <li> English Profiency | <span class="text-xs"> I can Read,Write,Speak English good enough </span> </li>
+            <li> Time Management| <span class="text-xs"> Rest is super IMPORTANT! Health is top priority </span></li>
+          </ul>
+        </div>                
+      </div>
+
+      <div class="w-full px-4 mb-10">
+        <div class="bg-black px-5 pt-3 pb-1 mb-5"> 
+          <span class="font-bold font-mono text-green-500 text-xl mb-3"> $ Social Media
+          </span>  
+        </div>
+        <div id="content" class="flex items-center">
           <!-- Youtube -->
           <a href="https://guhkun.bebersih.com" target="_blank" class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-slate-300 hover:border-primary hover:bg-primary hover:text-white text-secondary">
             <svg class="fill-current" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="20"><title>YouTube</title><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
@@ -27,9 +120,10 @@
             
             <svg width="20" class="fill-current" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
           </a>
-          
-        </div>
+        </div>     
       </div>
     </div>
+    
+    
   </div>
 </section>

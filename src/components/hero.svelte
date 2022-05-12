@@ -5,20 +5,21 @@
   
 </script>
 
-<section id="beranda" class="pt-36">
+<section id="home" class="pt-36">
   <div class="container">
     <div class="flex flex-wrap">
       <div class="w-full self-center px-4 lg:w-1/2">        
-        <div class="hover:animate-none  bg-transparent rounded-lg pt-4 pb-2 pl-4 backdrop-blur-md hover:bg-gradient-to-r hover:from-sky-300 hover:to-pink-300 mb-4 transition duration-500 ease-in-out hover:translate-y-5" >
-          <p class="text-primary lg:text-2xl animate-bounce transition duration-500  ease-in-out mb-3 "> Hi all 👋 </p>
+        <div class="hover:animate-none  bg-transparent rounded-lg pt-4 pb-2 pl-4 backdrop-blur-md mb-4" >
+          <p class="text-primary lg:text-2xl animate-bounce transition duration-500  ease-in-out mb-3 "> Hi 👋 </p>
           <p>
-            <span class="font-xs"> I am</span> 
+            <span class="font-xs"> My name is </span> 
             <span class="pt-3 text-4xl lg:text-5xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text uppercase"> 
               Teguh Atma 
             </span>      
           </p>
-          <p class="font-mono font-thin text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text"> Web Developer & Freelancer </p>
-          <p class="font-medium leading-relaxed pt-3 text-secondary mb-10"> Learn CSS is fun, not? <span class="text-red-500"> not </span>  
+          <p class="font-mono text-xl text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text"> Software Engineer </p>
+          <p class="leading-relaxed pt-3 text-secondary mb-10 font-thin"> <em> Just a speck of dust within the galaxy </em>
+            <span class="text-red-500">- Lost Stars </span>  
           </p>
         </div>
         

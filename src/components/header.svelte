@@ -18,7 +18,7 @@
   
   let fixedHeader = '';
   
-  const menus = ['beranda', 'tentangsaya', 'portofolio', 'clients', 'blog', 'contact'];    
+  const menus = ['home', 'whoami', 'portofolio', 'clients', 'blog', 'contact'];    
 </script>
 
 <header class="bg-transparent top-0 absolute left-0 w-full flex items-center z-10 {fixedHeader}">

@@ -2,24 +2,24 @@
   <div class="container">
     <div class="flex flex-wrap">
       <div class="w-full px-4 mb-12 font-medium md:w-1/3 text-slate-300">
-        <h2 class="font-bold text-2xl mb-5 ">Guhkun</h2>
-        <h3 class="text-bold text-2xl mb-2">Hubungi Kami </h3>
+        <h2 class="font-bold text-2xl mb-5 text-teal-500">Guhkun </h2>
+        <h3 class="text-bold text-xl mb-2"> Reach me </h3>
         <p> guhkun13@gmail.com</p>
-        <p>Sukamulia, Lombok Timur, NTB </p>
+        <p> (Paradise Island: Lombok) Lombok Timur, NTB, Indonesia </p>
       </div>
       <div class="w-full px-4 mb-12 font-medium md:w-1/3">
-        <h3 class="text-semibold text-xl text-white mb-5"> Kategori Tulisan </h3>
+        <h3 class="text-semibold text-xl text-white mb-5"> Category </h3>
         <ul class="text-slate-300">
           <li><a href="{'#'}" class="inline-block text-base hover:text-primary mb-3"> Programming </a></li>
-          <li><a href="{'#'}" class="inline-block text-base hover:text-primary mb-3"> Teknologi </a></li>
-          <li><a href="{'#'}" class="inline-block text-base hover:text-primary mb-3"> Gaya Hidup </a></li>
+          <li><a href="{'#'}" class="inline-block text-base hover:text-primary mb-3"> Tech </a></li>
+          <li><a href="{'#'}" class="inline-block text-base hover:text-primary mb-3"> Book </a></li>
         </ul>
       </div>
       <div class="w-full px-4 mb-12 font-medium md:w-1/3">
-        <h3 class="text-semibold text-xl text-white mb-5"> Tautan </h3>
+        <h3 class="text-semibold text-xl text-white mb-5"> Link </h3>
         <ul class="text-slate-300">
-          <li><a href="#beranda" class="inline-block text-base hover:text-primary mb-3"> Beranda </a></li>
-          <li><a href="#tentangsaya" class="inline-block text-base hover:text-primary mb-3"> Tentang Saya </a></li>
+          <li><a href="#beranda" class="inline-block text-base hover:text-primary mb-3"> Home </a></li>
+          <li><a href="#tentangsaya" class="inline-block text-base hover:text-primary mb-3"> About Me </a></li>
           <li><a href="#portofolio" class="inline-block text-base hover:text-primary mb-3"> Portofolio </a></li>
           <li><a href="#client" class="inline-block text-base hover:text-primary mb-3"> Clients </a></li>
           <li><a href="#blog" class="inline-block text-base hover:text-primary mb-3"> Blog </a></li>
@@ -47,7 +47,7 @@
         </a>
         
       </div>
-      <p class="font-medium text-sm text-slate-300 text-center"> Dibuat dengan <span class="text-pink-500"> 💓 </span>  oleh <a href="https://guhkun.netlify.app" target="_blank" class="font-bold text-xs text-teal-500"> Guhkun </a>  menggunakan <a href="https://tailwindcss.com" target="_blank" class="text-sky-500 font-bold text-xs"> Tailwind CSS </a></p>
+      <p class="font-medium text-sm text-slate-300 text-center"> Created with <span class="text-pink-500"> 💓 </span> by <span class="font-bold text-sm text-teal-500"> Guhkun </span>  using <a href="https://kit.svelte.dev/" target="_blank" class="text-orange-400 font-bold"> Svelte </a> and <a href="https://tailwindcss.com" target="_blank" class="text-sky-500 font-bold"> Tailwind CSS </a> </p> 
     </div>
   </div>
   
