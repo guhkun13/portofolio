@@ -13,12 +13,13 @@
           <p class="text-primary lg:text-2xl animate-bounce transition duration-500  ease-in-out mb-3 "> Hi 👋 </p>
           <p>
             <span class="font-xs"> My name is </span> 
-            <span class="pt-3 text-4xl lg:text-5xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text uppercase"> 
+            <span class="pt-3 text-2xl lg:text-4xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text uppercase"> 
               Teguh Atma 
             </span>      
           </p>
-          <p class="font-mono text-xl text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text"> Software Engineer </p>
-          <p class="leading-relaxed pt-3 text-secondary mb-10 font-thin"> <em> Just a speck of dust within the galaxy </em>
+          <p class="font-mono text-md lg:text-xl text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text"> Software Engineer </p>
+          <p class="leading-relaxed pt-3 text-secondary mb-10 font-thin lg:text-lg text-sm"> 
+            <em> Just a speck of dust within the galaxy </em>
             <span class="text-red-500">- Lost Stars </span>  
           </p>
         </div>
