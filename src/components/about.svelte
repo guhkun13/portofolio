@@ -6,21 +6,17 @@
           <span class="font-bold font-mono text-green-500 text-xl mb-3"> $ whoami             
           </span>  
         </div>        
-        <ul class="list-disc ml-5 font-mono space-y-3">
-          <li> Father of a beautiful and cute daughter </li>
-          <li> Software Engineer with multiple talent </li>
-          <li> Web Developer </li>
-          <li> Freelancer </li> 
+        <ul class="list-disc ml-5 font-mono space-y-3">          
+          <li> Software Engineer | Web Developer | Father </li>
+          <li> Alumnus of Faculty of Computer Science Universitas Indonesia </li>
+          <li> Specialized as Backend Eng </li>          
+          <li> Speak in Python, PHP, JavaScript, GO</li>
+          <li> Eager to learn new things and impactful </li>
         </ul>
         <p class="font-mono mt-5">
-          Life is not just about reaching the goal. Life is long and exhausting journey, enjoy the process, live the life. 
+          Life is short, enjoy the process, live the life. 
         </p>
         <div id="content" class="flex items-center mt-10">
-          <!-- Youtube -->
-          <!-- <a href="https://guhkun.bebersih.com" target="_blank" class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-slate-300 hover:border-primary hover:bg-primary hover:text-white text-secondary">
-            <svg class="fill-current" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="20"><title>YouTube</title><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-          </a> -->
-          
           <!-- Twitter -->
           <a href="https://twitter.com/guhkun13" target="_blank" class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-slate-300 hover:border-primary hover:bg-primary hover:text-white text-secondary">
             
@@ -50,47 +46,48 @@
       <div class="w-full px-4 mb-10 lg:w-1/2">
         <div class="mb-5">
           <div class="bg-black px-5 pt-3 pb-1 mb-5"> 
-            <span class="font-bold font-mono text-green-500 text-xl mb-3"> $ tech-stack
+            <span class="font-bold font-mono text-green-500 text-xl mb-3"> $ tech-stack (ranked by mastery)
             </span>  
           </div>
           <ul class="list-decimal ml-8 font-mono space-y-3">
             <li> 
               <div class="inline-flex items-center">
-                <span class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-slate-300 hover:border-primary hover:bg-green-500 hover:text-white text-secondary"> <svg role="img" width="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Python</title><path d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z"/></svg> </span> Python
+                <span class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-slate-300 hover:border-primary hover:bg-green-500 hover:text-white text-secondary"> <svg role="img" width="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Python</title><path d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z"/></svg> </span> Python 🥇
               </div>
               <div class="font-mono mt-3 text-sm">
                 <ul class="list-disc">
                   <li> Experience: since 2017 | ~4 years  </li>
-                  <li> Framework: Django, DRF </li>
+                  <li> Framework: Django, DRF, Flask </li>                  
                 </ul>
               </div>
             </li>
-            <li> 
-              javascript / nodejs
-              <div class="font-mono mt-3 text-sm">
-                <ul class="list-disc">
-                  <li> Experience: since 2021 | ~1 year </li>
-                  <li> Framework: Express, NestJS </li>
-                </ul>
-              </div>
-            </li>
-            <li> PHP 
+            <li> PHP  🥈
               <div class="font-mono mt-3 text-sm">
                 <ul class="list-disc">
                   <li> Experience: since 2017 | ~4 year </li>
-                  <li> Framework: CI, Laravel, Yii </li>
+                  <li> Framework: Laravel, CI, Yii </li>
                 </ul>
               </div>
             </li>
             
-            <li> Next: GoLang! 
+            <li> 
+              Javascript / nodejs 🥈
+              <div class="font-mono mt-3 text-sm">
+                <ul class="list-disc">
+                  <li> Experience: since 2021 | ~1 year </li>
+                  <li> Framework: NestJS </li>
+                </ul>
+              </div>
+            </li>
+
+            <li> GO 🥉
               <ul class="list-disc text-sm">
-                <li> Learned since April 2022 </li>
-                <li> I wanna be a ninja!  </li>
+                <li> Experience: Learned since April 2022 </li>
+                <li> Web Framework: Fiber!  </li>
               </ul>
             </li>            
             <li>
-              Database: PostgreSQL, MySQL
+              Database SQL: PostgreSQL, MySQL
             </li>
           </ul>
         </div>
@@ -104,12 +101,12 @@
         
         <div class="mb-2">
           <ul class="list-disc ml-5 font-mono space-y-3">
-            <li> GIT | <span class="text-xs"> most of my projects is in gitlab, just recently start using github 🥇 </span> </li>
-            <li> Linux |<span class="text-xs"> I love Ubuntu, Debian & Raspberry Pi 🥇 ❤️‍🔥 </span> </li> 
-            <li> Docker | <span class="text-xs"> yes idk k8s </span> 🥈 </li>
-            <li> Basic Networking |<span class="text-xs"> ((not sysadmin)) 🥉 </span> </li>
-            <li> Bash Scripting | <span class="text-xs"> yes, basic 🥉 </span></li>
-            <li> Have I said HTML & CSS ? | <span class="text-xs"> Yes i know them well 🥇😄 </span> </li>
+            <li> GIT | <span class="text-xs"> using GITLAB and GITHUB ⛲ </span> </li>
+            <li> Linux |<span class="text-xs"> I love Open Source 💓 </span> </li> 
+            <li> Docker | <span class="text-xs"> Ship anything </span> 🥈 </li>
+            <li> Networking |<span class="text-xs"> Still basic 🧲 </span> </li>
+            <li> Bash Scripting | <span class="text-xs"> Basic scripting is OK 🦓 </span></li>
+            <li> Have I said HTML & CSS ? 🛩️ | <span class="text-xs"> Yes i know them well 💠 </span> </li>
           </ul>
         </div>                
       </div>
@@ -122,12 +119,12 @@
         
         <div class="mb-2">
           <ul class="list-disc ml-5 font-mono space-y-3">
-            <li> Bahasa Profiency | <span class="text-xs"> Bahasa Indonesia is mother language, native speaker 🏆 </span> </li>
-            <li> English Profiency | <span class="text-xs"> I can Read,Write,Speak English good enough 👍 </span> </li>
+            <li> Bahasa Indonesia Profiency | <span class="text-xs"> Native speaker of Bahasa Indonesia 🏆 </span> </li>
+            <li> English Profiency | <span class="text-xs"> Good enough in conversation, reading and writing 👍 </span> </li>
             <li> Problem Solving |<span class="text-xs"> Understanding the problem is a first step to solve it 😺 </span> </li> 
             <li> Communication |<span class="text-xs"> Understanding each other is the key to successfull communication 🔑 </span> </li>
-            <li> SDLC: Agile Method | <span class="text-xs"> Waterfall is not bad, really 🍉 </span> </li>
-            <li> Time Management| <span class="text-xs"> Health is TOP priority. I play the long game 💗 </span></li>
+            <li> SDLC: Agile Method | <span class="text-xs"> IMHO, Waterfall is not that bad 🍉 </span> </li>
+            <li> Time Management | <span class="text-xs"> Health is TOP priority. I play the long game 💗 </span></li>
           </ul>
         </div>                
       </div>

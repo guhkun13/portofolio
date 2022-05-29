@@ -1,4 +1,4 @@
-<footer class="bg-slate-600 pt-24 pb-12">
+<footer class="bg-slate-900 pt-24 pb-12">
   <div class="container">
     <div class="flex flex-wrap">
       <div class="w-full px-4 mb-12 font-medium md:w-1/3 text-slate-300">

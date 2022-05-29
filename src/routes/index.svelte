@@ -7,6 +7,7 @@
   import Blog from '../components/blog.svelte';
   import Contact from '../components/contact.svelte';
   import Footer from '../components/footer.svelte';
+  import WorkEperience from '../components/work-experience.svelte';
 
   // floating memu / direction
   import FloatingSidebar from '../components/floating-sidebar.svelte';  
@@ -15,8 +16,10 @@
 <Hero />
 <About />
 <Portofolio />
-<Client />
-<Blog />
+<!-- <Client /> -->
+<WorkEperience />
+<!-- <WorkEperience /> -->
+<!-- <Blog /> -->
 <Contact />
 <Footer />
 <FloatingSidebar />

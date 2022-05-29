@@ -1,5 +1,6 @@
 <script>
-  import profile from '../assets/img/guhkun-2.png';
+  // import profile from '../assets/img/guhkun-2.png';
+  import profile from '../assets/img/sepeda-bareng-talia.jpg';
   import bgvideo from '../assets/vid/bg-lines.mp4';
   import timelapse from '../assets/vid/time_lapse.mp4';
   
@@ -19,8 +20,11 @@
           </p>
           <p class="font-mono text-md lg:text-xl text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text"> Software Engineer </p>
           <p class="leading-relaxed pt-3 text-secondary mb-10 font-thin lg:text-lg text-sm"> 
-            <em> Just a speck of dust within the galaxy </em>
-            <span class="text-red-500">- Lost Stars </span>  
+            <em> If life is just living, the pigs in the forest also live </em>
+            <br/>
+            <em> jika hidup sekedar hidup, babi di hutan juga hidup. </em>
+            <br>
+            <span class="text-red-500">- Buya Hamka (1908 - 1981) </span>  
           </p>
         </div>
         
@@ -31,7 +35,7 @@
       
       <div class="w-full self-end px-4 lg:w-1/2">
         <div class="mt-5 relative lg:mt-9 lg:right-0">
-          <img src="{profile}" alt="" class="max-w-full mx-auto">
+          <img src="{profile}" alt="" class="w-1/2 mx-auto">
           <span class="absolute top-5 -z-10 -translate-x-1/2 left-1/2">            
             <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" width="350" height="400">
               <path fill="#14b8a6" d="M35.7,-65.9C45.9,-56,53.4,-45.6,63.5,-34.5C73.6,-23.5,86.2,-11.7,89.7,2C93.2,15.8,87.6,31.6,75.9,39.8C64.1,47.9,46.2,48.5,32.6,50.4C18.9,52.3,9.5,55.5,-3.6,61.7C-16.6,67.9,-33.2,77.1,-44.5,73.8C-55.7,70.5,-61.5,54.7,-65.2,40.3C-69,25.9,-70.6,13,-72.7,-1.2C-74.8,-15.4,-77.4,-30.8,-71.1,-40.7C-64.8,-50.6,-49.5,-55,-36.2,-63.1C-22.9,-71.1,-11.4,-82.9,0.7,-84C12.8,-85.2,25.5,-75.8,35.7,-65.9Z" transform="translate(100 100)" />

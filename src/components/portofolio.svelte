@@ -1,48 +1,40 @@
-<script>
-  import img1 from '../assets/img/guhkun-1.png';
-  import img2 from '../assets/img/guhkun-2.png';
-  import img3 from '../assets/img/code-logo-2.png';
-</script>
-
 <section id="portofolio" class="pt-36 pb-36 bg-slate-100">
   <div class="container">
     <div class="w-full px-4">
       <div class="max-w-xl mx-auto text-center mb-16">
-        <h4 class="font-semibold text-primary mb-2 uppercase text-lg">Portofolio</h4>
-        <h2 class="font-bold text-black text-3xl mb-4">Project Terbaru</h2>
-        <p class="text-secondary text-md font-mono">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem quod quo temporibus architecto omnis. Vel mollitia laboriosam odio earum magnam?</p>
+        <h4 class="font-semibold text-primary mb-2 uppercase text-lg">My Projects</h4>        
+        <p class="text-secondary text-md font-mono">Sort by newest date</p>
       </div>
     </div>
 
     <div class="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
-      <div class="mb-12 p-4 md:w-1/2">
-        <div class="rounded-md shadow-lg overflow-hidden">
-          <img src="{img1}" alt="project1" width="w-full">
-        </div>
-        <h3 class="text-xl font-semibold font-mono my-4"> Guhkun Porto </h3>        
-        <p class="text-base font-medium text-secondary"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. In numquam dicta voluptatibus! </p>
-      </div>
-      <div class="mb-12 p-4 md:w-1/2">
-        <div class="rounded-md shadow-lg overflow-hidden">
-          <img src="https://source.unsplash.com/360x200?e+commerce" alt="project1" class="w-full">
-        </div>
-        <h3 class="text-xl font-semibold font-mono my-4"> E-Commerce </h3>        
-        <p class="text-base font-medium text-secondary"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. In numquam dicta voluptatibus! </p>
-      </div>
-      <div class="mb-12 p-4 md:w-1/2">
-        <div class="rounded-md shadow-lg overflow-hidden">
-          <img src="https://source.unsplash.com/360x200?developer" alt="project1" class="w-full">
-        </div>
-        <h3 class="text-xl font-semibold font-mono my-4"> Edupay </h3>        
-        <p class="text-base font-medium text-secondary"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. In numquam dicta voluptatibus! </p>
-      </div>
-      <div class="mb-12 p-4 md:w-1/2">
-        <div class="rounded-md shadow-lg overflow-hidden">
-          <img src="https://source.unsplash.com/360x200?programming" alt="project1" class="w-full">
-        </div>
-        <h3 class="text-xl font-semibold font-mono my-4"> API </h3>        
-        <p class="text-base font-medium text-secondary"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. In numquam dicta voluptatibus! </p>
-      </div>
+
+      <div class="mb-12 p-4 bg-slate-200">        
+        <h3 class="text-xl font-semibold font-mono mt-2"> Switching WSDL - Rest API </h3> 
+        <p class="text-sm font-mono mb-2"> Date: May 2022 - now </p>        
+        <p class="text-xs font-semib old mb-4"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> GO </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> WSDL </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> REST-API </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Makara Mas </span>
+        </p>
+        <p class="font-normal text-secondary"> Create REST API to handle transaction request (inquiry, payment & reversal) for flagging tools that connect to MakaraMas WSDL Billing Service. </p>        
+      </div>      
+
+      <div class="mb-12 p-4 bg-slate-200">        
+        <h3 class="text-xl font-semibold font-mono mt-2"> Switching WSDL - Rest API </h3> 
+        <p class="text-sm font-mono mb-2"> Date: May 2022 - now </p>        
+        <p class="text-xs font-semib old mb-4"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> GO </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> WSDL </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> REST-API </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Makara Mas </span>
+        </p>
+        <p class="font-normal text-secondary"> Create REST API to handle transaction request (inquiry, payment & reversal) for flagging tools that connect to MakaraMas WSDL Billing Service. </p>
+      </div>      
+
     </div>
   </div>
 </section>
