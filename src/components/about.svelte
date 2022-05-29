@@ -12,7 +12,7 @@
           <li> Specialized as Backend Eng </li>          
           <li> Speak in Python, PHP, JavaScript, GO</li>
           <li> Eager to learn new things and impactful </li>
-        </ul>
+        </ul>        
         <p class="font-mono mt-5">
           Life is short, enjoy the process, live the life. 
         </p>
