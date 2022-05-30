@@ -7,10 +7,9 @@
           </span>  
         </div>        
         <ul class="list-disc ml-5 font-mono space-y-3">          
-          <li> Software Engineer | Web Developer | Father </li>
-          <li> Alumnus of Faculty of Computer Science Universitas Indonesia </li>
+          <li> Software Engineer | Web Developer | Father </li>          
           <li> Specialized as Backend Eng </li>          
-          <li> Speak in Python, PHP, JavaScript, GO</li>
+          <li> Speak in Python, PHP, JavaScript, GO</li>          
           <li> Eager to learn new things and impactful </li>
         </ul>        
         <p class="font-mono mt-5">
@@ -79,16 +78,13 @@
                 </ul>
               </div>
             </li>
-
+            
             <li> GO 🥉
               <ul class="list-disc text-sm">
                 <li> Experience: Learned since April 2022 </li>
                 <li> Web Framework: Fiber!  </li>
               </ul>
-            </li>            
-            <li>
-              Database SQL: PostgreSQL, MySQL
-            </li>
+            </li>                       
           </ul>
         </div>
       </div>
@@ -100,13 +96,15 @@
         </div>        
         
         <div class="mb-2">
-          <ul class="list-disc ml-5 font-mono space-y-3">
+          <ul class="list-disc ml-5 font-mono space-y-3">            
             <li> GIT | <span class="text-xs"> using GITLAB and GITHUB ⛲ </span> </li>
+            <li> Databases | <span class="text-xs"> mainly use Postgresql ⛲ </span> </li>
             <li> Linux |<span class="text-xs"> I love Open Source 💓 </span> </li> 
             <li> Docker | <span class="text-xs"> Ship anything </span> 🥈 </li>
             <li> Networking |<span class="text-xs"> Still basic 🧲 </span> </li>
             <li> Bash Scripting | <span class="text-xs"> Basic scripting is OK 🦓 </span></li>
-            <li> Have I said HTML & CSS ? 🛩️ | <span class="text-xs"> Yes i know them well 💠 </span> </li>
+            <li> HTML | <span class="text-xs"> Of course 🦈 </span> </li>
+            <li> CSS | <span class="text-xs"> Bootstrap and tailwind 🤟 </span> </li>
           </ul>
         </div>                
       </div>
@@ -119,12 +117,18 @@
         
         <div class="mb-2">
           <ul class="list-disc ml-5 font-mono space-y-3">
-            <li> Bahasa Indonesia Profiency | <span class="text-xs"> Native speaker of Bahasa Indonesia 🏆 </span> </li>
-            <li> English Profiency | <span class="text-xs"> Good enough in conversation, reading and writing 👍 </span> </li>
-            <li> Problem Solving |<span class="text-xs"> Understanding the problem is a first step to solve it 😺 </span> </li> 
-            <li> Communication |<span class="text-xs"> Understanding each other is the key to successfull communication 🔑 </span> </li>
-            <li> SDLC: Agile Method | <span class="text-xs"> IMHO, Waterfall is not that bad 🍉 </span> </li>
-            <li> Time Management | <span class="text-xs"> Health is TOP priority. I play the long game 💗 </span></li>
+            <li> Bahasa Indonesia Profiency | 
+              <span class="text-xs"> Native speaker of Bahasa Indonesia 🏆 </span> </li>
+            <li> English Profiency | 
+              <span class="text-xs"> Good enough in conversation, reading and writing 👍 </span> </li>
+            <li> Problem Solving | 
+              <span class="text-xs"> Understanding the problem is a first step to solve it 😺 </span> </li> 
+            <li> Communication |
+              <span class="text-xs"> Understanding each other is the key to successfull communication 🔑 </span> </li>
+            <li> Scrum (Agile) | 
+              <span class="text-xs"> IMHO, Waterfall is not that bad 🍉 </span> </li>
+            <li> Time Management | 
+              <span class="text-xs"> Health is TOP priority. I play the long game 💗 </span></li>
           </ul>
         </div>                
       </div>
