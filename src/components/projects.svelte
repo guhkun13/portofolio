@@ -1,4 +1,4 @@
-<section id="portofolio" class="pt-36 pb-36 bg-slate-100">
+<section id="projects" class="pt-36 pb-36 bg-slate-100">
   <div class="container">
     <div class="w-full px-4">
       <div class="max-w-xl mx-auto text-center mb-16">
@@ -6,9 +6,9 @@
         <p class="text-secondary text-md font-mono">Sort by newest date</p>
       </div>
     </div>
-
+    
     <div class="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
-
+      
       <div class="mb-12 p-4 bg-slate-200">        
         <h3 class="text-xl font-semibold font-mono mt-2"> Switching WSDL - Rest API </h3> 
         <p class="text-sm font-mono mb-2"> Date: May 2022 - now </p>        
@@ -21,20 +21,24 @@
         </p>
         <p class="font-normal text-secondary"> Create REST API to handle transaction request (inquiry, payment & reversal) for flagging tools that connect to MakaraMas WSDL Billing Service. </p>        
       </div>      
-
-      <div class="mb-12 p-4 bg-slate-200">        
-        <h3 class="text-xl font-semibold font-mono mt-2"> Switching WSDL - Rest API </h3> 
-        <p class="text-sm font-mono mb-2"> Date: May 2022 - now </p>        
-        <p class="text-xs font-semib old mb-4"> 
-          Tags: 
-          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> GO </span>
-          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> WSDL </span>
-          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> REST-API </span>
-          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Makara Mas </span>
-        </p>
-        <p class="font-normal text-secondary"> Create REST API to handle transaction request (inquiry, payment & reversal) for flagging tools that connect to MakaraMas WSDL Billing Service. </p>
-      </div>      
-
+      
+      
+      
+      <div class="mb-12 p-4 bg-slate-200">  
+        <p> ... under construction ...  </p>
+        <ul class="list-disc">
+          <div class="mx-5 space-y-5">
+            <li> Golang as Part Timer MM: WSDL, simple POS  </li>
+            <li> Python / Django as Freelancer: DISPOSUR BPOM, Bianglala BANPT,  TNDE UNHAN, Andieni UI, Simple Log Monitoring </li>          
+            <li> JavaScript/NestJS: BCA & Majax API, Doku Wallet and Majax API, BNI QRIS & Majax API, Majax Product Service (POS), all of them are microservices </li>           
+            <li> Python/Django as Part Timer MM: Simple Log Monitoring BTNS, Simple Biller Management </li>
+            <li> Scrum Master of PT MM </li>
+            
+            <li> PHP/CI: PPDB Online ; <a href="https://herman.bebersih.com "> PPDB Online </a> </li>
+          </div>
+          
+        </ul>        
+      </div>
     </div>
   </div>
 </section>

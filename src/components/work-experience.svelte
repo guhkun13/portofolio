@@ -13,7 +13,7 @@
       <div class="mb-12 p-4 bg-slate-200">        
         <p class="text-xl font-semibold font-mono mt-2 mb-2"> Programmer
           <span class="text-purple-500"> | </span> 
-          <span class="text-sm font-semibold mb-2">  ITF Faculty of CS UI  </span>
+          <span class="text-sm font-semibold mb-2">  ITF (Faculty of CS UI) </span>
           <span class="text-purple-500"> | </span> 
           <span class="text-sm font-semibold mb-2">  August 2016 - February 2018 </span> 
         </p>           
@@ -137,7 +137,6 @@
           <p class="font-thin"> Integration between Bank BTN Syariah (BTNS) and PT Makara Mas as the switcher, using ISO8583 as the message format. One of the hardest task was creating and connecting the machine between two company was done by Mr. Gladhi Guarddin as Senior Consultant of PT Makara Mas. My responsible was to continue, implement needed service to connect them together end-to-end, and finally make a new duplicate of Edupay for BTNS  </p>
         </div>
 
-  
       </div>   
       
     </section>

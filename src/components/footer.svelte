@@ -20,7 +20,7 @@
         <ul class="text-slate-300">
           <li><a href="#beranda" class="inline-block text-base hover:text-primary mb-3"> Home </a></li>
           <li><a href="#tentangsaya" class="inline-block text-base hover:text-primary mb-3"> About Me </a></li>
-          <li><a href="#portofolio" class="inline-block text-base hover:text-primary mb-3"> Portofolio </a></li>
+          <li><a href="#projects" class="inline-block text-base hover:text-primary mb-3"> Projects </a></li>
           <li><a href="#work-experience" class="inline-block text-base hover:text-primary mb-3"> Work Experience </a></li>
           <li><a href="#contact" class="inline-block text-base hover:text-primary mb-3"> Contact </a></li>
         </ul>

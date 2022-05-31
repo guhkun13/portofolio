@@ -1,5 +1,5 @@
 <script>
-  const menus = ['home', 'whoami', 'portofolio', 'work-experience', 'contact'];    
+  const menus = ['home', 'whoami', 'projects', 'work-experience', 'contact'];    
   
   let show = true;
   function handleMouseOver(e) {
