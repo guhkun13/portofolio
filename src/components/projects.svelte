@@ -2,7 +2,7 @@
   <div class="container">
     <div class="w-full px-4">
       <div class="max-w-xl mx-auto text-center mb-16">
-        <h4 class="font-semibold text-primary mb-2 uppercase text-lg">My Projects</h4>        
+        <h4 class="font-semibold text-primary mb-2 uppercase text-lg underline  decoration-red-500 decoration-wavy">My Projects</h4>        
         <p class="text-secondary text-md font-mono">Sort by newest date</p>
       </div>
     </div>

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="w-full px-4">
       <div class="max-w-xl mx-auto text-center mb-16 ">
-        <h4 class="font-semibold text-primary mb-2 uppercase text-lg">Work Experience</h4>        
+        <h4 class="font-semibold text-primary mb-2 uppercase text-lg underline  decoration-sky-500 decoration-wavy">Work Experience</h4>        
         <p class="text-white text-md font-mono mt-3"> I am looking for good working environment to improve myself, contribute, innovate and together build amazing and impactful things </p>
       </div>
     </div>
@@ -29,7 +29,7 @@
           <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> Card Reader </span>          
         </div>
         
-        <p class="font-base mt-5"> Some of my works: </p>        
+        <p class="font-base mt-5"> Some of my works: </p>
         
         <div class="bg-blue-200 p-5 m-5 rounded-md border-dashed border-2 border-indigo-500">
           <h2 class="uppercase font-bold font-2xl"> 1. siparkir </h2>                    
@@ -95,7 +95,7 @@
         </div>
       </div>   
       
-      <!-- PT Makara Mas -->
+      <!-- PT Makara Mas : Full Time -->
       <div class="mb-12 p-4 bg-slate-200">        
         <p class="text-xl font-semibold font-mono mt-2 mb-2"> IT Manager
           <span class="text-purple-500"> | </span> 
@@ -129,12 +129,59 @@
           <p class="font-thin"> Pepipost (netcore) is third party Email Delivery app that has many functions needed to send email. Especially for Edupay that sending many invoices or payments notification via emails, good and reliable Email Delivery was needed.             
           </p>
         </div>
-
+        
         <div class="bg-violet-200 p-5 m-5 rounded-md border-dashed border-2 border-indigo-500">
           <h2 class="uppercase font-bold font-2xl"> 3. BTNS Mobile Payment </h2>                    
           <p> Integrating with BTN Syariah </p>
           <hr class=" border-black mb-4">
           <p class="font-thin"> Integration between Bank BTN Syariah (BTNS) and PT Makara Mas as the switcher, using ISO8583 as the message format. One of the hardest task was creating and connecting the machine between two company was done by Mr. Gladhi Guarddin as Senior Consultant of PT Makara Mas. My responsible was to continue, implement needed service to connect them together end-to-end, and finally make a new duplicate of Edupay for BTNS  </p>
+        </div>
+        
+      </div>   
+      
+      <!-- PT Makara Mas : Part Time -->
+      <div class="mb-12 p-4 bg-slate-200">        
+        <p class="text-xl font-semibold font-mono mt-2 mb-2"> Freelance & Part Time
+          <span class="text-purple-500"> | </span> 
+          <span class="text-sm font-semibold mb-2">  PT Makara Mas </span>
+          <span class="text-purple-500"> | </span> 
+          <span class="text-sm font-semibold mb-2">  May 2020 - Now </span> 
+        </p>           
+        <p class="font-secondary font-thin "> Responsible for maintaining existing web app Edupay and bug fixing (main task) and involved in some app development
+        </p>
+        <div class="text-xs mt-2"> Tech: 
+          <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> PHP </span>
+          <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> Yii Framework </span>
+          <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> Scrum </span>          
+          <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> Server Maintenance </span>
+          <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> Kubernetes </span>
+          <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> AWS </span>
+          <span class="bg-sky-200 text-blue-700 rounded px-1 py-1 mx-1"> Zabbix </span>
+          
+        </div>        
+        <p class="font-base mt-5"> Some of my works: </p>        
+        
+        <div class="bg-blue-200 p-5 m-5 rounded-md border-dashed border-2 border-indigo-500">
+          <h2 class="uppercase font-bold font-2xl"> 1. Edupay </h2>                    
+          <p> Develop & Maintenance of Edupay </p>
+          <hr class=" border-black mb-4">
+          <p class="font-thin"> Edupay as one of the main product still need some development and maintenance. I was also involved in migrating Edupay from VPS physical server to cloud server AWS. </p>
+        </div>
+        
+        <div class="bg-indigo-200 p-5 m-5 rounded-md border-dashed border-2 border-indigo-500">
+          <h2 class="uppercase font-bold font-2xl"> 2. Network </h2>
+          <p> Maintenance of some existing network  </p>
+          <hr class=" border-black mb-4">
+          <p class="font-thin"> I am responsible to record/map existing network infra of PT Makara Mas and help in maintenance and also troubleshoot if there are any trouble in connectino/network. Network status can be monitored via Zabbix.
+          </p>
+        </div>
+        
+        <div class="bg-indigo-200 p-5 m-5 rounded-md border-dashed border-2 border-indigo-500">
+          <h2 class="uppercase font-bold font-2xl"> 3. Bug Fixing </h2>
+          <p> Technical Support </p> 
+          <hr class=" border-black mb-4">
+          <p class="font-thin"> Giving help in bug fixing or code review if asked. 
+          </p>
         </div>
 
       </div>   
