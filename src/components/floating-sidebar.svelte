@@ -12,7 +12,7 @@
 <section id="floating-sidebar">  
   <div class="max-h-full max-w-full">  
     <div class="fixed right-3 z-10 bottom-10">
-      <a href="#beranda" class="text-violet-500 ">
+      <a href="#home" class="text-violet-500 ">
         <svg xmlns="http://www.w3.org/2000/svg" class="animate-bounce fill-current transition duration-300" role="img" width="50" height="50" viewBox="0 0 24 24"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12-5.373-12-12-12-12 5.373-12 12zm17-1h-4v8h-2v-8h-4l5-6 5 6z"/></svg>
       </a>
     </div>

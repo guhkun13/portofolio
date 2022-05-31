@@ -13,6 +13,7 @@
   import FloatingSidebar from '../components/floating-sidebar.svelte';  
 </script>
 
+
 <Hero />
 <About />
 <Projects />
