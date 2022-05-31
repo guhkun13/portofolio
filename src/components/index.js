@@ -5,4 +5,4 @@ export { default as About }
 from './about.svelte';
 
 export { default as Portofolio }
-from './portofolio.svelte';
+from './projects.svelte';
