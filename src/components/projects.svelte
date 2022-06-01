@@ -9,36 +9,191 @@
     
     <div class="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
       
-      <div class="mb-12 p-4 bg-slate-200">        
-        <h3 class="text-xl font-semibold font-mono mt-2"> Switching WSDL - Rest API </h3> 
-        <p class="text-sm font-mono mb-2"> Date: May 2022 - now </p>        
-        <p class="text-xs font-semib old mb-4"> 
+      <!-- switching wsdl -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> Switching WSDL - REST API  
+          <span class="text-sm mb-2"> Date: May 2022 / on-going </span>        
+        </p>
+        
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Solo | Backend Eng / API Developer </p>       
+        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
           Tags: 
           <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> GO </span>
           <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> WSDL </span>
           <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> REST-API </span>
-          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Makara Mas </span>
         </p>
-        <p class="font-normal text-secondary"> Create REST API to handle transaction request (inquiry, payment & reversal) for flagging tools that connect to MakaraMas WSDL Billing Service. </p>        
+        
+        <p class="text-sm  xl:text-base mt-5"> Create REST API to handle transaction request (inquiry, payment & reversal) for flagging tools that connect to MakaraMas WSDL Billing Service. </p>        
+      </div> 
+      
+      <!-- Andieni UI -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> Andieni UI  
+          <span class="text-sm mb-2"> | 2020 - ongoing | Deployed </span>     
+        </p>   
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Team | Fullstack Dev </p>       
+        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Python </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Django </span>          
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> DRF </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> PostgreSQL </span>
+        </p>
+        
+        <p class="text-sm mt-5"> Andieni UI (Aplikasi Naskah Dinas Elektronik Universitas Indonesia) is web application for mail disposition and/or distribution. I am currently take part as one of the development team member. This project was forked from DISPOSUR BPOM and further modified to fulfill client's needs. It is also connected to UI internal app  </p>
       </div>      
       
+      <!-- BNI QRIS & MAJAX -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> BNI QRIS & MAJA 
+          <span class="text-sm mb-2"> | 2021 | deployed (dev) </span>        
+        </p> 
+        
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Solo | Backend Eng / API Developer </p>       
+        
+        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> JavaScript </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> NestJS </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Microservices </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> RabbitMQ </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Maja </span>
+        </p>
+        
+        <p class="text-sm mt-5"> I was responsible for connecting BNI QRIS Payment API as one of payment method in Maja. I was also add features for BNI QRIS merchant registration in separated web app (for internal use) </p>
+      </div> 
+      
+      <!-- DOKU WALLET & MAJAX -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> DOKU Wallet & MAJA  
+          <span class="text-sm mb-2">| 2021 | Deployed </span>        
+        </p>
+        
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Solo | Backend Eng / API Developer </p>       
+        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> JavaScript </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> NestJS </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Microservices </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> RabbitMQ </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Maja </span>
+        </p>
+        
+        <p class="text-sm mt-5"> I was responsible for connecting DOKU Wallet API and Maja to add more payment method choices in Maja. There are 3 banks that successfully connected via DOKU Wallet API; Bank BRI, Bank Permata and Bank Mandiri. It was quick and easy integration because DOKU has nice API documentation 💟 </p>
+      </div> 
+      
+      <!-- BCA & MAJAX -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> BCA VA & MAJA 
+          <span class="text-sm mb-2"> | 2020 - 2021 | Deployed </span> 
+        </p>    
+        
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Solo | Backend Eng / API Developer </p>       
+        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> JavaScript </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> NestJS </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Microservices </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> RabbitMQ </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Maja </span>
+        </p>        
+        <p class="text-sm mt-5"> I was responsible for connecting and add BCA Virtual Account as one of payment method in Maja  </p>
+      </div> 
       
       
-      <div class="mb-12 p-4 bg-slate-200">  
-        <p> ... under construction ...  </p>
-        <ul class="list-disc">
-          <div class="mx-5 space-y-5">
-            <li> Golang as Part Timer MM: WSDL, simple POS  </li>
-            <li> Python / Django as Freelancer: DISPOSUR BPOM, Bianglala BANPT,  TNDE UNHAN, Andieni UI, Simple Log Monitoring </li>          
-            <li> JavaScript/NestJS: BCA & Majax API, Doku Wallet and Majax API, BNI QRIS & Majax API, Majax Product Service (POS), all of them are microservices </li>           
-            <li> Python/Django as Part Timer MM: Simple Log Monitoring BTNS, Simple Biller Management </li>
-            <li> Scrum Master of PT MM </li>
-            
-            <li> PHP/CI: PPDB Online ; <a href="https://herman.bebersih.com "> PPDB Online </a> </li>
-          </div>
-          
-        </ul>        
+      <!-- TNDE UNHAN -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> TNDE UNHAN 
+          <span class="text-sm mb-2">| 2020 - 2021 | Deployed </span>  
+        </p>       
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Team | Fullstack Developer </p>               
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Python </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Django </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> DRF </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> PostgreSQL </span>
+        </p>
+        
+        <p class="text-sm mt-5"> TNDE UNHAN (Tata Naskah Dinas Elektronik Universitas Pertahanan) is web application for mail disposition and/or distribution. My team are consist of 5 persons including myself as one of 2 programmers. This project was forked from DISPOSUR BPOM and further modified to fulfill client's needs. </p>
+      </div> 
+      
+      <!-- TOOLS Makara Mas -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> TOOLS Makara Mas 
+          <span class="text-sm mb-2"> | 2020 | Deployed </span> 
+        </p>         
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Solo | Fullstack Developer </p>        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Python </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Django </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Ajax Datatables </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> PostgreSQL </span>
+        </p>
+        
+        <p class="text-sm mt-5"> This project was forked from Bianglala BANPT. It was to show log of transaction (inquiry, payment and response) and managing (CRUD) biller/merchant. Its to be used by operator/admin of PT Makara Mas operational teams. </p>
+      </div> 
+      
+      <!-- BIANGLALA BANPT -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> BIANGLALA BANPT 
+          <span class="text-sm mb-2"> | 2020 | Deployed </span> 
+        </p>         
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Team | Fullstack Developer </p>        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Python </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Django </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Ajax Datatables </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> MySQL </span>
+        </p>
+        
+        <p class="text-sm mt-5">  Bianglala BANPT is CRUD web app, built for managing existing database. This project was done by 2 persons, me and my mentor/lecturer from college, Mr Maman Sutarman. It was developed by combining lovable datatables.js and custom ajax request, to enable server side rendering (SSR) feature of datatables. </p>
+      </div> 
+      
+      <!-- DISPOSUR BPOM -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> DISPOSUR BPOM  
+          <span class="text-sm mb-2"> 2019 - 2020 | Deployed </span>        
+        </p>
+        
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Team | Fullstack Developer </p>  
+        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Python </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Django </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> DRF </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> PostgreSQL </span>
+        </p>
+        
+        <p class="text-sm mt-5"> DISPOSUR BPOM (Disposisi Surat Badan Pengawas Obat dan Makakan) is web application for mail disposition and/or distribution. My team are consist of 5 persons including myself as one of 2 programmers </p>
       </div>
+      
+      
+      <!-- SIRUSUN -->
+      <div class="w-full mb-12 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
+        <p class="text-xl font-semibold font-mono mt-2"> SIRUSUN 
+          <span class="text-sm mb-2"> | 2016 | not deployed </span>                
+        </p>
+        <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Team | Fullstack Developer </p>          
+        
+        <p class="text-xs font-semib old space-x-1 space-y-1"> 
+          Tags: 
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> PHP </span>
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Laravel </span>          
+          <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> MySQL </span>
+        </p>
+        
+        <p class="text-sm mt-5"> SIRUSUN or Sistem Informasi Rumah Susun was <span class="italic"> pro bono </span> project iniated by DKI Govt Staff when Mr Basuki Tjahaja Purnama or Pak Ahok was governor that time. The goal is to create information system to manage rusun (apartment) and people that lived on it. This is my first experience handling real client (before graduated) and the very first time my Web Developer carrerr starts. I love php artisan, laravel blade and laravel itself. I had so much joy when develop this app. Although the project was not deployed, but this is very good experience for me. </p>
+      </div>
+      
     </div>
   </div>
 </section>

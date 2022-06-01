@@ -7,7 +7,7 @@
       </div>
     </div>
     
-    <div class="w-full px-4 flex flex-wrap justify-center">
+    <div class="w-full xl:w-10/12 px-4 flex flex-wrap justify-center items-center mx-auto">
       
       <!-- ITF  -->
       <div class="mb-12 p-4 bg-slate-200">        

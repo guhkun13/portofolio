@@ -2,10 +2,11 @@
   <div class="container">
     <div class="flex flex-wrap">
       <div class="w-full px-4 mb-12 font-medium md:w-1/3 text-slate-300">
-        <h2 class="font-bold text-2xl mb-5 text-teal-500">Guhkun </h2>
-        <h3 class="text-bold text-xl mb-2"> Reach me </h3>
-        <p> guhkun13@gmail.com</p>
-        <p> (Paradise Island: Lombok) Lombok Timur, NTB, Indonesia </p>
+        <h2 class="font-bold text-2xl text-teal-500"> Teguh Atma </h2>
+        <p class="text-sm"> Or you can call me <span class="text-xl text-violet-500 bold font-sans"> GUHKUN </span>  </p>
+        
+        <h3 class="text-bold text-xl mb-2 mt-4"> Address </h3>        
+        <p class="text-base"> 🏠 (Paradise Island: Lombok) Lombok Timur, NTB, Indonesia </p>
       </div>
       <div class="w-full px-4 mb-12 font-medium md:w-1/3">
         <h3 class="text-semibold text-xl text-white mb-5"> Category </h3>
