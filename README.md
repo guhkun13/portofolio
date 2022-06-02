@@ -42,5 +42,5 @@ You can preview the production build with `npm run preview`.
 ## Source 
 
 1. Link YT : https://www.youtube.com/watch?v=8Ea4oq8qFtM&t=1616s
-1. Icons : https://simpleicons.org/
+1. Icons SVG : https://simpleicons.org/
 1. Blob Maker: https://www.blobmaker.app/
