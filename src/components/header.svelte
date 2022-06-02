@@ -12,7 +12,7 @@
       navMenu = '';
     } else {
       hamburgerActive = '';
-      navMenu = 'hidden';      
+      navMenu = 'hidden';
     }    
   }
   
@@ -43,7 +43,7 @@
             <li class="group">
               <a href="#{item}" class="link-underline text-base text-black lg:text-violet-400 lg:font-bold lg:text-sm mx-8 flex py-2 group-hover:text-violet-500 uppercase"> {item} </a>
             </li>
-            {/each}            
+            {/each}
           </ul>
         </nav>
       </div>
