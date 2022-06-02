@@ -7,9 +7,10 @@
           </span>  
         </div>        
         <ul class="list-disc ml-5 font-mono space-y-3">          
-          <li> Software Engineer | Web Developer | Father </li>          
+          <li> Software Engineer | Web Developer </li>                    
           <li> Specialized as Backend Eng </li>          
           <li> Speak in Python, PHP, JavaScript, GO</li>          
+          <li> Bachelor Degree of CS </li>
           <li> Eager to learn new things and innovate </li>
           <li> Let's make world a better place </li>
         </ul>        
