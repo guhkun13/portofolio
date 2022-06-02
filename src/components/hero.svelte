@@ -14,21 +14,25 @@
           <p class="text-primary lg:text-2xl animate-bounce transition duration-500  ease-in-out mb-3 "> Hi 👋 </p>
           <p>
             <span class="font-xs"> My name is </span> 
-            <span class="pt-3 text-2xl lg:text-4xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text uppercase "> 
+            <span class="pt-3 text-2xl lg:text-4xl font-mono font-semibold text-transparent bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text uppercase">
               Teguh Atma 
             </span>      
           </p>
-          <p class="font-mono text-md lg:text-xl text-transparent bg-gradient-to-r from-red-500 to-violet-500 bg-clip-text underline  decoration-blue-500 decoration-wavy"> Software Engineer </p>
-          <p class="leading-relaxed pt-3 text-secondary mb-10 font-thin lg:text-lg text-sm"> 
-            <em> If life is just living, the pigs in the forest also live </em>
-            <br/>
-            <em> jika hidup sekedar hidup, babi di hutan juga hidup. </em>
-            <br>
-            <span class="text-red-500">- Buya Hamka (1908 - 1981) </span>  
-          </p>
+          <div class="py-3 px-10 font-mono text-md lg:text-xl  uppercase font-bold text-white bg-gradient-to-r from-blue-500 to-green-300 mt-3 -skew-x-6"> 
+            Software Engineer 
+          </div>
+          <div class="my-5 border-2 border-dashed p-5 border-slate-400 bg-green-100">
+            <p class="leading-relaxed font-thin lg:text-xl text-sm"> 
+              If life is just living, the pigs in the forest also live
+              <br/>
+              jika hidup sekedar hidup, babi di hutan juga hidup
+              <br>
+              <span class="text-red-500">- Buya Hamka (1908 - 1981) </span>  
+            </p>
+          </div>
         </div>
         
-        <div class="hover:-translate-y-3 transition duration-300 ease-in-out mt-3">
+        <div class="hover:-translate-y-3 transition duration-300 ease-in-out m-3">
           <a href={'#contact'} class="text-base font-semibold text-white bg-teal-500 py-3 px-5 rounded-full hover:bg-white hover:text-primary hover:border-2 shadow-lg hover:animate-none animate-pulse"> Contact Me </a>
         </div>
       </div>

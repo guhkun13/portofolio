@@ -3,8 +3,6 @@
   
   let show = true;
   function handleMouseOver(e) {
-    console.log('SHOW TEXT!');
-    console.log(e.data);
     show = !show;
   }
 </script>

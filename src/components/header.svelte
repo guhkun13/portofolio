@@ -37,11 +37,11 @@
           <span class="origin-bottom-left hamburger-line transition duration-300 ease-in-out"></span>
         </button>
         
-        <nav id="nav-menu" class="{navMenu} absolute py-5  text-violet-500 shadow-md rounded-lg max-w-[250px] w-full right-3 top-full lg:static lg:block  lg:max-w-full lg:backdrop-blur-xl hover:shadow-xl lg:text-violet-400 transition duration-300 ease-in-out">
+        <nav id="nav-menu" class="{navMenu} absolute py-5  text-violet-500 shadow-md rounded-lg max-w-[250px] w-full right-3 top-full lg:static lg:block  lg:max-w-full lg:backdrop-blur-xl hover:shadow-xl lg:text-violet-400 transition duration-300 ease-in-out bg-black font-mono">
           <ul class="block lg:flex ">
             {#each menus as item}
             <li class="group">
-              <a href="#{item}" class="link-underline text-base text-black lg:text-violet-400 lg:font-bold lg:text-sm mx-8 flex py-2 group-hover:text-violet-500 uppercase"> {item} </a>
+              <a href="#{item}" class="link-underline text-base text-green-700 lg:font-bold lg:text-sm mx-8 flex py-2 group-hover:text-green-500 uppercase"> {item} </a>
             </li>
             {/each}
           </ul>

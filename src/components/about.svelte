@@ -10,7 +10,8 @@
           <li> Software Engineer | Web Developer | Father </li>          
           <li> Specialized as Backend Eng </li>          
           <li> Speak in Python, PHP, JavaScript, GO</li>          
-          <li> Eager to learn new things and impactful </li>
+          <li> Eager to learn new things and innovate </li>
+          <li> Let's make world a better place </li>
         </ul>        
         <p class="font-mono mt-5">
           Life is short, enjoy the process, live the life. 
