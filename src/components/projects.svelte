@@ -46,7 +46,8 @@
           <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Solo | Backend Eng / API Developer </p>       
           <p class="text-xs font-semib old space-x-1 space-y-1"> 
             Tags: 
-            <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> GO </span>
+            <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Python </span>
+            <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Flask </span>
             <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> WSDL </span>
             <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> REST-API </span>
           </p>
