@@ -36,29 +36,11 @@
     
     <div class="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
       
-      <!-- switching wsdl -->
-      <div class="w-full mb-8 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
-        <p class="text-xl font-semibold font-mono mt-2"> WSDL REST API
-          <span class="text-sm mb-2"> | 2022 / on-going </span> 
-          <button class="float-right text-xl mb-2 px-7 rounded-lg bg-violet-400" on:click={toggleThis} id="pj1"> + </button> 
-        </p>
-        <div id="pj1-item" class="{isHidden}">
-          <p class="text-sm mb-2 underline-offset-2 underline decoration-blue-800 decoration-dashed"> Solo | Backend Eng / API Developer </p>       
-          <p class="text-xs font-semib old space-x-1 space-y-1"> 
-            Tags: 
-            <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Python </span>
-            <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> Flask </span>
-            <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> WSDL </span>
-            <span class="bg-purple-200 text-purple-700 rounded px-2 py-1"> REST-API </span>
-          </p>
-          <p class="text-sm xl:text-base mt-5"> Create REST API to handle transaction request (inquiry, payment & reversal) for flagging tools that connect to MakaraMas WSDL Billing Service. </p>        
-        </div>
-      </div> 
       
       <!-- Andieni UI -->
       <div class="w-full mb-8 p-4 bg-slate-200 rounded-sm border-blue-500 border-b-2">        
         <p class="text-xl font-semibold font-mono mt-2"> Andieni UI  
-          <span class="text-sm mb-2"> | 2020 - ongoing | Deployed </span>     
+          <span class="text-sm mb-2"> | 2020 - 2022 | Deployed </span>     
           <button class="float-right text-xl mb-2 px-7 rounded-lg bg-violet-400" on:click={toggleThis} id="pj2"> + </button> 
         </p>   
         <div id="pj2-item" class="{isHidden}">

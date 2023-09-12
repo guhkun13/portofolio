@@ -16,15 +16,15 @@
             </span>      
           </p>
           <div class="py-3 px-10 font-mono text-md lg:text-xl  uppercase font-bold text-white bg-gradient-to-r from-blue-500 to-green-300 mt-3 -skew-x-6"> 
-            Software Engineer 
+            Software Engineer | <small> Backend Specialized </small> 
           </div>
           <div class="my-5 border-2 border-dashed p-5 border-slate-400 bg-green-100">
             <p class="leading-relaxed font-thin lg:text-xl text-sm"> 
-              If life is just living, the pigs in the forest also live
+              Bila ada sumur di ladang bolehlah kita menumpang mandi
               <br/>
-              jika hidup sekedar hidup, babi di hutan juga hidup
+              Bila umur panjang, bolehlah kita berjumpa lagi
               <br>
-              <span class="text-red-500">- Buya Hamka (1908 - 1981) </span>  
+              <span class="text-red-500">- Pantun Melayu </span>  
             </p>
           </div>
         </div>
