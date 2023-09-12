@@ -22,7 +22,7 @@
             <p class="leading-relaxed font-thin lg:text-xl text-sm"> 
               Bila ada sumur di ladang bolehlah kita menumpang mandi
               <br/>
-              Bila umur panjang, bolehlah kita berjumpa lagi
+              Bila ada umur panjang, bolehlah kita berjumpa lagi
               <br>
               <span class="text-red-500">- Pantun Melayu </span>  
             </p>
