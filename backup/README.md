@@ -8,11 +8,13 @@ If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
 # create a new project in the current directory
-npm create svelte@latest
+npm init svelte@next
 
 # create a new project in my-app
-npm create svelte@latest my-app
+npm init svelte@next my-app
 ```
+
+> Note: the `@next` is temporary
 
 ## Developing
 
@@ -36,3 +38,9 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Source 
+
+1. Link YT : https://www.youtube.com/watch?v=8Ea4oq8qFtM&t=1616s
+1. Icons SVG : https://simpleicons.org/
+1. Blob Maker: https://www.blobmaker.app/
