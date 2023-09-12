@@ -1,5 +1,5 @@
 <script>
-    import logo from '$lib/img/code-logo-2.png';
+    import logo from '$lib/assets/img/code-logo-2.png';
     
     let hamburgerActive = '';
     let navMenu = 'hidden';

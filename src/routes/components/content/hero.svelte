@@ -1,7 +1,5 @@
 <script>
-  import profile from '$lib/img/sepeda-bareng-talia.jpg';
-  import bgvideo from '$lib/vid/bg-lines.mp4';
-  import timelapse from '$lib/assets/vid/time_lapse.mp4';
+  import profile from '$lib/assets/img/sepeda-bareng-talia.jpg';
   
 </script>
 
