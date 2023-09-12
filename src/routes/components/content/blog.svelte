@@ -1,13 +1,3 @@
-<script>
-  import google from '$lib/img/google.png';
-  import facebook from '$lib/img/facebook.svg';
-  import twitter from '$lib/img/twitter.png';
-  import tiket from '$lib/img/tiket.png';
-  import gojek from '$lib/img/gojek.png';
-  import traveloka from '$lib/img/traveloka.png';
-  import bukalapak from '$lib/img/bukalapak.png';
-</script>
-
 <section id="blog" class="pt-36 pb-32 bg-slate-100">
   <div class="container">
     <div class="w-full px-4">
