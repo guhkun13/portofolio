@@ -38,10 +38,10 @@ export function Contact() {
           {/* Contact Information */}
           <div className="space-y-8">
             <div>
-              <h3 className="text-xl font-semibold mb-4">Let's Connect</h3>
+              <h3 className="text-xl font-semibold mb-4">Lets Connect</h3>
               <p className="text-muted-foreground leading-relaxed">
-                I'm always interested in discussing new opportunities, innovative projects, or potential collaborations.
-                Whether you're looking for a technical leader, backend engineer, or consultant, I'd love to hear from
+                I am always interested in discussing new opportunities, innovative projects, or potential collaborations.
+                Whether you are looking for a technical leader, backend engineer, or consultant, I would love to hear from
                 you.
               </p>
             </div>
@@ -106,7 +106,7 @@ export function Contact() {
           <Card>
             <CardHeader>
               <CardTitle>Send a Message</CardTitle>
-              <CardDescription>Fill out the form below and I'll get back to you as soon as possible.</CardDescription>
+              <CardDescription>Fill out the form below and I will get back to you as soon as possible.</CardDescription>
             </CardHeader>
             <CardContent>
               <form onSubmit={handleSubmit} className="space-y-4">
