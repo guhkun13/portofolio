@@ -23,9 +23,6 @@ export function Contact() {
               </p>
             </div>
 
-            
-
-            
           </div>
           <div className="space-y-8">
             <div className="space-y-4">
