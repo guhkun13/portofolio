@@ -1,6 +1,8 @@
 import { Button } from "@/components/ui/button"
 import { Github, Linkedin, Mail, ExternalLink } from "lucide-react"
 
+const resumeUrl = '/2025-08-resume-teguh-atma.pdf'
+
 export function Hero() {
   return (
     <section className="pt-20 pb-16 px-4 sm:px-6 lg:px-8">
@@ -14,16 +16,21 @@ export function Hero() {
           </p>
         </div>
 
-        {/* <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
-          <Button size="lg" className="w-full sm:w-auto">
+        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
+          {/* <Button size="lg" className="w-full sm:w-auto">
             <Mail className="mr-2 h-4 w-4" />
             Get In Touch
-          </Button>
-          <Button variant="outline" size="lg" className="w-full sm:w-auto bg-transparent">
-            <ExternalLink className="mr-2 h-4 w-4" />
-            View Resume
-          </Button>
-        </div> */}
+          </Button> */}
+          <div className="flex-row-2">
+          <a href={resumeUrl} download="Teguh-Atma-Resume.pdf">
+            <Button variant="outline" size="lg" className="w-full sm:w-auto bg-transparent cursor-pointer">
+              <ExternalLink className="mr-2 h-4 w-4" />
+              Download Resume                            
+            </Button>            
+          </a><br />
+          <small>Last Update:2025/08</small>
+          </div>
+        </div>
 
         <div className="flex justify-center space-x-6">
           <a
