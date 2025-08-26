@@ -7,7 +7,7 @@ export function Hero() {
       <div className="container mx-auto max-w-4xl text-center">
         <div className="mb-8">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-6">Teguh Atma Wijaya</h1>
-          <p className="text-xl sm:text-2xl text-muted-foreground mb-8">Software Engineer & Technical Leader</p>
+          <p className="text-xl sm:text-2xl text-muted-foreground mb-8">Software Engineer</p>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             6+ years of expertise in backend systems, DevOps, and cross-functional team leadership. Passionate about
             clean code, performance optimization, and empowering teams to ship independently.

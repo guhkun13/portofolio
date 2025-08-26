@@ -35,6 +35,7 @@ export function Contact() {
       <div className="container mx-auto max-w-6xl">
         <h2 className="text-3xl font-bold text-center mb-12">Get In Touch</h2>
         <div className="grid lg:grid-cols-2 gap-12">
+
           {/* Contact Information */}
           <div className="space-y-8">
             <div>
@@ -46,30 +47,14 @@ export function Contact() {
               </p>
             </div>
 
-            <div className="space-y-4">
-              <div className="flex items-center gap-3">
-                <Mail className="h-5 w-5 text-accent" />
-                <a
-                  href="mailto:guhkun13@gmail.com"
-                  className="text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  guhkun13@gmail.com
-                </a>
-              </div>
-              <div className="flex items-center gap-3">
-                <Phone className="h-5 w-5 text-accent" />
-                <a href="tel:+6281388669930" className="text-muted-foreground hover:text-foreground transition-colors">
-                  +62 813 8866 9930
-                </a>
-              </div>
-              <div className="flex items-center gap-3">
-                <MapPin className="h-5 w-5 text-accent" />
-                <span className="text-muted-foreground">Indonesia</span>
-              </div>
-            </div>
+            
 
+            
+          </div>
+          <div className="space-y-8">
             <div className="space-y-4">
               <h4 className="font-semibold">Find me online</h4>
+              
               <div className="flex gap-4">
                 <a
                   href="https://github.com/guhkun13"
@@ -81,7 +66,7 @@ export function Contact() {
                   GitHub
                 </a>
                 <a
-                  href="https://linkedin.com/in/teguh-atma-wijaya"
+                  href="https://linkedin.com/in/guhkun13"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
@@ -99,11 +84,34 @@ export function Contact() {
                   Portfolio
                 </a>
               </div>
+
+              <div className="space-y-4 pt-6">
+                <div className="flex items-center gap-3">
+                  <Mail className="h-5 w-5 text-accent" />
+                  <a
+                    href="mailto:guhkun13@gmail.com"
+                    className="text-muted-foreground hover:text-foreground transition-colors"
+                  >
+                    guhkun13@gmail.com
+                  </a>
+                </div>
+                <div className="flex items-center gap-3">
+                  <Phone className="h-5 w-5 text-accent" />
+                  <a href="tel:+6281388669930" className="text-muted-foreground hover:text-foreground transition-colors">
+                    +62 813 8866 9930
+                  </a>
+                </div>
+                <div className="flex items-center gap-3">
+                  <MapPin className="h-5 w-5 text-accent" />
+                  <span className="text-muted-foreground">Indonesia</span>
+                </div>
+              </div>
+
             </div>
           </div>
 
           {/* Contact Form */}
-          <Card>
+          {/* <Card>
             <CardHeader>
               <CardTitle>Send a Message</CardTitle>
               <CardDescription>Fill out the form below and I will get back to you as soon as possible.</CardDescription>
@@ -149,7 +157,7 @@ export function Contact() {
                 </Button>
               </form>
             </CardContent>
-          </Card>
+          </Card> */}
         </div>
       </div>
     </section>

@@ -14,21 +14,21 @@ const experiences = [
       "Designed multi-database framework (PostgreSQL + Sqlite + MongoDB) for high-availability and scalability",
       "Built trust through detailed architecture walkthroughs, securing multi-year contracts",
     ],
-    technologies: ["Go", "PostgreSQL", "MongoDB", "Docker", "CI/CD", "DevOps"],
+    technologies: ["Go", "PostgreSQL", "MongoDB", "Docker", "CI/CD", "DevOps", "AI/ML", "Mentoring", "Team Leadership", "Project Management"],
   },
   {
     title: "Backend Engineer",
     company: "AssistX Enterprise",
     location: "Jakarta, Indonesia (On-site)",
     period: "Dec 2023 - Dec 2024",
-    description: "Architecting distributed systems and AI/ML pipelines",
+    description: "Transforming monolith into distributed system",
     achievements: [
       "Broke apart monolithic file-compression system into distributed architecture using message queues (NSQ)",
       "Replaced error-prone manual deployments with Docker images, cutting setup time from 4 hours to 20 minutes",
       "Engineered Samba protocol integration for Windows-Linux file processing compatibility",
       "Migrated from OCR to Vision-Language Models (VLMs), improving processing time from 3 minutes to 3 seconds",
     ],
-    technologies: ["Go", "Python", "Docker", "NSQ", "Linux", "AI/ML"],
+    technologies: ["Go", "Python", "Docker", "NSQ", "Linux"],
   },
   {
     title: "Backend Engineer",
@@ -67,7 +67,7 @@ const experiences = [
       "Developed Presentronik: smart class attendance system integrated with University of Indonesia's SIAK-NG",
       "Involved in user training, support, and deployment across university faculties",
     ],
-    technologies: ["IoT", "Event-Driven Architecture", "ZeroMQ", "Smart Systems"],
+    technologies: ["Python", "IoT", "Event-Driven Architecture", "ZeroMQ", "Smart Systems"],
   },
 ]
 
